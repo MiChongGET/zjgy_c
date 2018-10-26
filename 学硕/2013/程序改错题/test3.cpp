@@ -10,6 +10,7 @@ class root
   public:
     root(int I) : i(I) {}
     virtual int getI(void) { return i; }
+    virtual int shiftI(int x) {}
 };
 
 class branch : public root
