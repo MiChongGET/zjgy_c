@@ -20,7 +20,7 @@ void process(int a[][4], int n, int m)
         for (int j = 0; j < m; j++)
         {
             *(*(a + i) + j) /= *(*(a + i) + i);
-        }1
+        }
     }
 }
 
