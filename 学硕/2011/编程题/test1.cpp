@@ -23,7 +23,7 @@ int main()
         for (j = i + 1; j < len; j++)
         {
 
-            if (nums[j] == nums[i])
+            if (nums[j] == nums[i])  
             {
 
                 for (int k = j + 1; k < len; k++)
