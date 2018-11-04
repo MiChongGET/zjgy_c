@@ -1,15 +1,3 @@
 {
-    "files.associations": {
-        "ostream": "cpp",
-        "iostream": "cpp",
-        "typeinfo": "cpp",
-        "iosfwd": "cpp",
-        "istream": "cpp",
-        "new": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "Enabled",
-    "files.autoSave": "afterDelay",
-    "editor.formatOnSave": false,
-    "files.encoding": "gb2312",
-    "files.autoGuessEncoding": true
+    "C_Cpp.errorSquiggles": "Disabled"
 }

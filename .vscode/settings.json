@@ -7,7 +7,7 @@
         "istream": "cpp",
         "new": "cpp"
     },
-    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.errorSquiggles": "Disabled",
     "files.autoSave": "afterDelay",
     "editor.formatOnSave": false,
     "files.encoding": "gb2312",
